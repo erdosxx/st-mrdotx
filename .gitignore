@@ -4,7 +4,6 @@
 # date:   2021-05-20T10:29:57+0200
 
 /boxdraw.o
-/config.h
 /st
 /st.o
 /x.o
