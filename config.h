@@ -5,11 +5,14 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMonoNF:pixelsize=18:antialias=true:autohint=true";
+// static char *font = "JetBrainsMonoNF:pixelsize=18:antialias=true:autohint=true";
+// static char *font = "JuliaMono:pixelsize=18:antialias=true:autohint=true";
+static char *font = "JuliaMono Nerd Font Mono:pixelsize=28:antialias=true:autohint=true";
+// static char *font = "FiraCode Nerd Font Mono:pixelsize=18:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"NotoColorEmoji:pixelsize=16:antialias=true:autohint=true",
-	"Noto Color Emoji:pixelsize=16:antialias=true:autohint=true"
+	"NotoColorEmoji:pixelsize=26:antialias=true:autohint=true",
+	"Noto Color Emoji:pixelsize=26:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
